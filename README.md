@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/W4k4s/w4k4s.github.io/main/assets/isma.png" width="180" style="border-radius: 50%;" />
-
-### Hey! I'm Isma 👋
-
-**IT Sysadmin** · **AI Builder** · **Automation Addict**
+<a href="https://w4k4s.github.io"><img src="banner.png" width="100%" /></a>
 
 [![Website](https://img.shields.io/badge/aimejor.com-0066FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aimejor.com)
 [![Portfolio](https://img.shields.io/badge/w4k4s.github.io-00D4AA?style=for-the-badge&logo=github-pages&logoColor=white)](https://w4k4s.github.io)
